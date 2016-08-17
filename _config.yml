@@ -1,14 +1,28 @@
-layout_spectrum: 0.5213184994645417
+name: ExtraOrdinary Life Academy
+favicon: null
+layout_spectrum: 1
 typography_spectrum: 0.3513334486633539
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
   brandStrength: 0.4134430920239538
   lightness: 0.36377984029240906
   saturation: 0.8784024231135845
   rhythmicContrast: 0.42581798136234283
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-name: ExtraOrdinary Life Academy
+purpose: []
